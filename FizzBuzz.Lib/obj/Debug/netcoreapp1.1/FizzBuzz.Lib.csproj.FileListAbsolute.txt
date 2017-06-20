@@ -1,0 +1,7 @@
+C:\Users\Administrator\Documents\visual studio 2017\Projects\FizzBuzz\FizzBuzz.Lib\bin\Debug\netcoreapp1.1\FizzBuzz.Lib.deps.json
+C:\Users\Administrator\Documents\visual studio 2017\Projects\FizzBuzz\FizzBuzz.Lib\bin\Debug\netcoreapp1.1\FizzBuzz.Lib.dll
+C:\Users\Administrator\Documents\visual studio 2017\Projects\FizzBuzz\FizzBuzz.Lib\bin\Debug\netcoreapp1.1\FizzBuzz.Lib.pdb
+C:\Users\Administrator\Documents\visual studio 2017\Projects\FizzBuzz\FizzBuzz.Lib\obj\Debug\netcoreapp1.1\FizzBuzz.Lib.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\visual studio 2017\Projects\FizzBuzz\FizzBuzz.Lib\obj\Debug\netcoreapp1.1\FizzBuzz.Lib.AssemblyInfo.cs
+C:\Users\Administrator\Documents\visual studio 2017\Projects\FizzBuzz\FizzBuzz.Lib\obj\Debug\netcoreapp1.1\FizzBuzz.Lib.dll
+C:\Users\Administrator\Documents\visual studio 2017\Projects\FizzBuzz\FizzBuzz.Lib\obj\Debug\netcoreapp1.1\FizzBuzz.Lib.pdb
